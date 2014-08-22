@@ -141,6 +141,9 @@
 .soc-lastfm:before {
     content:'q';
 }
+.soc-vine:before {
+    content:'u';
+}
 .soc-flickr:before {
     content:'v';
 }
