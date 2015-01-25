@@ -147,8 +147,8 @@
 .soc-flickr:before {
     content:'v';
 }
-.soc-delicious:before {
-    content:'I';
+.soc-youtube:before {
+    content:'r';
 }
 .soc-rss:before {
     content:',';
