@@ -224,6 +224,15 @@ p {
 	font-weight: 400;
 }
 
+nav-item {
+	display: inline;
+	font-size: 273.500%;
+	color: #262626;
+	font-family: 'Roboto', Arial, sans-serif;
+	font-weight: 700;
+	text-align: center;
+}
+
 a:link {
 	color: #333333;
 	text-decoration: none;
