@@ -217,11 +217,18 @@ h4 {
 	text-align: center;
 }
 
-p {
+h5 {
 	font-size: 121.481%;
 	text-align: center;
 	font-family: 'Roboto', Arial, sans-serif;
 	font-weight: 400;
+}
+
+p {
+	font-size: 121.481%;
+	text-align: left;
+	font-family: 'Roboto', Arial, sans-serif;
+	font-weight: 100;
 }
 
 nav-item {
