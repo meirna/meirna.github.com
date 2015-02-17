@@ -9,7 +9,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,100,700italic,700,100italic,400);
 
 html {
-  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
