@@ -266,7 +266,8 @@ a:hover {
 }
 
 #project-title {
-	display: inline;	
+	display: inline;
+	clear: both;
 }
 
 #project-media {
@@ -276,6 +277,7 @@ a:hover {
 
 #project-text {
 	display: inline;
+	clear: right;
 }
 
 
