@@ -52,6 +52,8 @@
         		src: url(./socicon/socicon.svg) format(svg);
     		}
 	}
+	
+@import url(http://fonts.googleapis.com/css?family=Roboto:400italic,100,700italic,700,100italic,400);
 
 .soc {
     overflow:hidden;
