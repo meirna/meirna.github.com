@@ -186,9 +186,6 @@ a.symbol:before {
 	text-align: center;
 }
 
-.projects {
-	display:inline-block;
-}
 
 h1 {
 	display: inline;
@@ -253,6 +250,11 @@ nav-item {
 	font-family: 'Roboto', Arial, sans-serif;
 	font-weight: 700;
 	text-align: center;
+}
+
+projects {
+	display:inline-block;
+	width: 70%;
 }
 
 a:link {
