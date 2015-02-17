@@ -264,3 +264,17 @@ a:visited {
 a:hover {
 	color: #B2B2B2;
 }
+
+#project-title {
+	display: inline;	
+}
+
+#project-media {
+	display: inline;	
+}
+
+#project-text {
+	display: inline;
+}
+
+
