@@ -264,13 +264,12 @@ navitem {
 }
 
 projects {
-	display:inline-block;
+	
 	width: 70%;
 }
 
 work {
-	display:inline;
-	width: 70%;
+
 }
 
 a:link {
