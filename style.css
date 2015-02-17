@@ -183,6 +183,10 @@ a.symbol:before {
 	text-align: center;
 }
 
+.project {
+	display:inline-block;
+}
+
 h1 {
 	display: inline;
 	font-size: 273.500%;
