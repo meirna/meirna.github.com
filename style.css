@@ -286,6 +286,7 @@ a:hover {
 
 .project-text {
 	display: inline-block;
+	text-align: right;
 	clear: right;
 	width: 35%;
 }
