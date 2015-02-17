@@ -187,14 +187,16 @@ h1 {
 	display: inline;
 	font-size: 273.500%;
 	color: #262626;
-	font-family: 'equiplight', Arial, sans-serif;
+	font-family: 'Roboto', 'equiplight', Arial, sans-serif;
+	font-weight: 700;
 	text-align: center;
 }
 
 h2 {
 	font-size: 615.385%;
 	color: #333333;
-	font-family: 'equiplight', Arial, sans-serif;
+	font-family: 'Roboto', 'equiplight', Arial, sans-serif;
+	font-weight: 700;
 	text-align: center;
 
 }
@@ -203,13 +205,15 @@ h3 {
 	display: inline;
 	font-size: 273.500%;
 	color: #262626;
-	font-family: 'equiplight', Arial, sans-serif;
+	font-family: 'Roboto', 'equiplight', Arial, sans-serif;
+	font-weight: 700;
 	text-align: center;
 }
 
 h4 {
 	font-size: 121.554%;
-	font-family: 'equiplight', Arial, sans-serif;
+	font-family: 'Roboto', 'equiplight', Arial, sans-serif;
+	font-weight: 700;
 	text-align: center;
 }
 
