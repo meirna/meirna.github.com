@@ -290,6 +290,7 @@ a:hover {
 	text-align: right;
 	clear: right;
 	padding-left: 10px;
+	padding-top: 0px;
 	width: 35%;
 	background-color: yellow;
 }
