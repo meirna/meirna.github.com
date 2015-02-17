@@ -266,16 +266,15 @@ a:hover {
 }
 
 #project-title {
-	display: inline;
 	clear: both;
 }
 
 #project-media {
-	display: inline;
+	display: inline-block;
 }
 
 #project-text {
-	display: inline;
+	display: inline-block;
 	clear: right;
 }
 
