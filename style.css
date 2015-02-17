@@ -8,7 +8,7 @@
    	@media only screen and (max-width: 1024px ) {
                     body { font-size: 200% }
                     h2 { line-height: 60% }
-                    .project-text { width: 100% }
+                    .project-text { width: 100%; padding-left: 0px; }
      	}
 
 
