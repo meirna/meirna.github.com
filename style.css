@@ -218,8 +218,11 @@ h4 {
 }
 
 p {
+	font-size: 80.988%;
 	text-align: center;
 	word-spacing: 7.023px;
+	font-family: 'Roboto', Arial, sans-serif;
+	font-weight: 400;
 }
 
 a:link {
