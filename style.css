@@ -289,7 +289,7 @@ a:hover {
 	display: inline-block;
 	text-align: right;
 	clear: right;
-	padding: 10px;
+	padding-left: 10px;
 	width: 35%;
 	background-color: yellow;
 }
