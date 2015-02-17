@@ -270,7 +270,8 @@ a:hover {
 }
 
 #project-media {
-	display: inline;	
+	display: inline;
+	float: left;
 }
 
 #project-text {
