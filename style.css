@@ -270,15 +270,15 @@ a:hover {
 	color: #B2B2B2;
 }
 
-#project-title {
+.project-title {
 	clear: both;
 }
 
-#project-media {
+.project-media {
 	display: inline-block;
 }
 
-#project-text {
+.project-text {
 	display: inline-block;
 	clear: right;
 	width: 20%;
