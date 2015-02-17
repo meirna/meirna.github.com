@@ -254,7 +254,11 @@ nav-item {
 
 projects {
 	display:inline-block;
-	width: 75%;
+	width: 70%;
+}
+
+work {
+	width: 80%;
 }
 
 a:link {
