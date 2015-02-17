@@ -238,6 +238,7 @@ h6 {
 p {
 	font-size: 80.988%;
 	text-align: left;
+	float: left;
 	font-family: 'Roboto', Arial, sans-serif;
 	font-weight: 100;
 }
