@@ -226,6 +226,7 @@ h5 {
 	text-align: center;
 	font-family: 'Roboto', Arial, sans-serif;
 	font-weight: 400;
+	display: none;
 }
 
 h6 {
