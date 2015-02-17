@@ -243,6 +243,10 @@ p {
 	font-weight: 100;
 }
 
+nav {
+	width: 80%;
+}
+
 nav-item {
 	display: inline;
 	font-size: 273.500%;
