@@ -264,7 +264,7 @@ navitem {
 }
 
 projects {
-	
+	display:inline-block;
 	width: 70%;
 }
 
