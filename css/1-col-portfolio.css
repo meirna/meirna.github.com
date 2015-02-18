@@ -22,6 +22,13 @@ h3 {
     font-size: 28px;
 }
 
+h5 {
+	font-size: 121.481%;
+	text-align: center;
+	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+	font-weight: 400;
+}
+
 a {
     text-decoration: underline;
     color:#262626;
