@@ -12,6 +12,10 @@ body {
     font-size: 16px;
 }
 
+h3 {
+    font-weight: 700;
+}
+
 a {
     text-decoration: underline;
 }
