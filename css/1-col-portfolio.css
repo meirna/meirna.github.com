@@ -72,6 +72,10 @@ a.btn:visited {
     border-color: #262626;
 }
 
+a.heading:hover {
+	color: #b2b2b2;	
+}
+
 a.heading:visited {
 	color: #262626;	
 }
