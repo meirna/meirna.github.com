@@ -74,6 +74,10 @@ a.menu:hover {
     color:#262626;
 }
 
+ul.nav .navbar-nav {
+	text-decoration: none;
+}
+
 button {
   overflow: hidden;
 }
