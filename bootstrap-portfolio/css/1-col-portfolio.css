@@ -35,6 +35,10 @@ a.navbar-brand {
     background-color: #ffffff;
 }
 
+div.container {
+    background-color: #ffffff;
+}
+
 nav .navbar .navbar-inverse .navbar-fixed-top {
     color: #ffffff;
     background-color: #ffffff;
