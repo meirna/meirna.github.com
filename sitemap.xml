@@ -1,16 +1,22 @@
 <!--?xml version="1.0" encoding="UTF-8"?-->
-<br> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<br> 
-<url><br> <loc>http://mirnap.com/</loc><br> </url>
-<br> 
-<url><br> <loc>http://www.mirnap.com/work</loc><br> </url>
-<br> 
-<url><br> <loc>http://www.mirnap.com/video</loc><br> </url>
-<br> 
-<url><br> <loc>http://www.mirnap.com/writing</loc><br> </url><br> 
-<br> 
-<url><br> <loc>http://www.mirnap.com/web</loc><br> </url><br> 
-<br> 
-<url><br> <loc>http://www.mirnap.com/music</loc><br> </url><br> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>http://www.mirnap.com</loc> 
+  </url>
+  <url>
+    <loc>http://www.mirnap.com/work</loc> 
+  </url>
+  <url>
+    <loc>http://www.mirnap.com/video</loc> 
+  </url>
+  <url>
+    <loc>http://www.mirnap.com/writing</loc> 
+  </url>
+  <url>
+    <loc>http://www.mirnap.com/web</loc> 
+  </url>
+  <url>
+    <loc>http://www.mirnap.com/music</loc> 
+  </url>
 </urlset>
