@@ -4,13 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:400italic,100,700italic,700,100italic,400);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400italic,100,700italic,700,100italic,400,300,300italic);
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 
     font-family: 'Roboto';
-    font-weight: 100;
+    font-weight: 300;
     color:#262626;
     background-color: #ffffff;
     
