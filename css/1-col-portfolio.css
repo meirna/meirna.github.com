@@ -38,8 +38,12 @@ a:hover {
     color: #b2b2b2;
 }
 
+a.description:hover {
+	color: #b2b2b2;
+}
+
 a.description:visited {
-	color:#262626;
+	color: #262626;
 }
 
 a.heading {
