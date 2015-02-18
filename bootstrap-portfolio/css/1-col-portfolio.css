@@ -37,6 +37,10 @@ a.btn:hover {
     background-color: #b2b2b2;
 }
 
+button {
+  overflow: hidden;
+}
+
 footer {
     margin: 50px 0;
 }
