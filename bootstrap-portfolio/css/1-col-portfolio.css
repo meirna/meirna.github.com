@@ -31,6 +31,11 @@ a.navbar-brand {
     border-radius: 0px;
 }
 
+nav .navbar .navbar-inverse .navbar-fixed-top {
+    color: #262626;
+    background-color: #262626;
+}
+
 footer {
     margin: 50px 0;
 }
