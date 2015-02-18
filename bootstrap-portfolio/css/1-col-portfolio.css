@@ -36,6 +36,7 @@ a.btn {
 
 a.btn:hover {
     background-color: #b2b2b2;
+    border-color: #262626;
 }
 
 button {
