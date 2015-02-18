@@ -1,0 +1,67 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400italic,100,700italic,700,100italic,400,300,300italic);
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+
+    font-family: 'Roboto';
+    font-weight: 300;
+    color:#262626;
+    background-color: #ffffff;
+    font-size: 16px;
+    
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+a {
+    text-decoration: underline;
+    color:#262626;
+}
+
+a:hover {
+    color: #b2b2b2;
+}
+
+a.navbar-brand {
+    text-decoration: none;
+}
+
+a.btn {
+    background-color: #262626;
+    border-radius: 0px;
+    border-color: #262626;
+    text-decoration: none;
+    margin-top: 7px;
+}
+
+a.btn:hover {
+    background-color: #b2b2b2;
+    border-color: #b2b2b2;
+}
+
+a.menu {
+    text-decoration: none;
+    color: #787878;
+}
+
+a.menu:hover {
+    text-decoration: none;
+    color:#262626;
+}
+
+button {
+  overflow: hidden;
+}
+
+footer {
+    margin: 50px 0;
+}
