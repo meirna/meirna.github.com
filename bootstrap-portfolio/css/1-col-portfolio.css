@@ -36,6 +36,11 @@ nav .navbar .navbar-inverse .navbar-fixed-top {
     background-color: #ffffff;
 }
 
+.navbar-header {
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
 footer {
     margin: 50px 0;
 }
