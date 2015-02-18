@@ -24,14 +24,6 @@ a.navbar-brand {
     text-decoration: none;
 }
 
-a.navbar .navbar-inverse .navbar-fixed-top {
-    text-decoration: none;
-}
-
-ul.nav .navbar-nav {
-    text-decoration: none;
-}
-
 footer {
     margin: 50px 0;
 }
