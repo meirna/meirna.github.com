@@ -72,6 +72,10 @@ a.btn:visited {
     border-color: #262626;
 }
 
+a.heading:visited {
+	color: #262626;	
+}
+
 a.menu {
     text-decoration: none;
     color: #787878;
