@@ -197,7 +197,7 @@ h1 {
 
 h2 {
 	font-size: 615.385%;
-	color: #333333;
+	color: #262626;
 	font-family: 'Roboto', 'equiplight', Arial, sans-serif;
 	font-weight: 700;
 	text-align: center;
@@ -273,12 +273,12 @@ work {
 }
 
 a:link {
-	color: #333333;
+	color: #262626;
 	text-decoration: none;
 }
 
 a:visited {
-	color: #333333;
+	color: #262626;
 }
 
 a:hover {
