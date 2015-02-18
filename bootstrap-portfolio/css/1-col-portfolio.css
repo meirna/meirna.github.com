@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-    color: #b2b2b2
+    color: #b2b2b2;
 }
 
 a.navbar-brand {
@@ -46,6 +46,15 @@ a.btn {
 a.btn:hover {
     background-color: #b2b2b2;
     border-color: #b2b2b2;
+}
+
+a.menu {
+    text-decoration: none;
+}
+
+a.menu:hover {
+    text-decoration: none;
+    color:#262626;
 }
 
 button {
