@@ -52,6 +52,11 @@ a.btn:hover {
     border-color: #b2b2b2;
 }
 
+a.btn:visited {
+    background-color: #262626;
+    border-color: #262626;
+}
+
 a.menu {
     text-decoration: none;
     color: #787878;
