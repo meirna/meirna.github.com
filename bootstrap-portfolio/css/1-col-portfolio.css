@@ -19,6 +19,10 @@ a {
     text-decoration: underline;
 }
 
+a.navbar-brand {
+    text-decoration: none;
+}
+
 footer {
     margin: 50px 0;
 }
