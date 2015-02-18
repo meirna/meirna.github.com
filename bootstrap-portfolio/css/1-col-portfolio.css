@@ -30,6 +30,7 @@ a.navbar-brand {
 a.btn {
     background-color: #262626;
     border-radius: 0px;
+    text-decoration: none;
 }
 
 footer {
