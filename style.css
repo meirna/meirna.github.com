@@ -97,11 +97,7 @@
     background-color: #ffffff;
 }
 
-.soc a:hover {
-    z-index: 2;
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-}
+
 
 
 .soc-icon-last{
@@ -113,6 +109,9 @@
 }
 .soc-facebook a:hover {
     color: #3b5998;
+    z-index: 2;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
 .soc-twitter:before {
     content:'a';
