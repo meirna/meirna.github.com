@@ -111,6 +111,9 @@
 .soc-facebook:before {
     content:'b';
 }
+.soc-facebook a:hover {
+    color: #3b5998;
+}
 .soc-twitter:before {
     content:'a';
 }
