@@ -53,6 +53,10 @@ a:active,
 a:hover {
   outline: 0;
 }
+a.soc-facebook:hover {
+  color: #3b5998;
+}
+}
 abbr[title] {
   border-bottom: 1px dotted;
 }
