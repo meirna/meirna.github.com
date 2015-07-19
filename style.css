@@ -1,47 +1,47 @@
 @media only screen and (min-width: 1440px ) {
-					h2 { padding-top: 7.535% }
-					h2 {line-height: 80% }
-     	}	
+                    h2 { padding-top: 7.535% }
+                    h2 {line-height: 80% }
+        }   
 
-   	@media only screen and (max-width: 1024px ) {
+    @media only screen and (max-width: 1024px ) {
                     body { font-size: 200% }
                     h2 { line-height: 60% }
                     nav {width:100%;}
                     .project-text { width: 100%; padding-left: 0px; }
-     	}
+        }
 
 
-	@font-face {
-    		font-family: 'Mono Social Icons Font';
-    		src: url('./icons/MonoSocialIconsFont-1.10.eot');
-    		src: url('./icons/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
-         		url('./icons/MonoSocialIconsFont-1.10.woff') format('woff'),
-         		url('./icons/MonoSocialIconsFont-1.10.ttf') format('truetype'),
-         		url('./icons/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
-    		src: url('./icons/MonoSocialIconsFont-1.10.ttf') format('truetype');
-    		font-weight: normal;
-    		font-style: normal;
-	}
+    @font-face {
+            font-family: 'Mono Social Icons Font';
+            src: url('./icons/MonoSocialIconsFont-1.10.eot');
+            src: url('./icons/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
+                url('./icons/MonoSocialIconsFont-1.10.woff') format('woff'),
+                url('./icons/MonoSocialIconsFont-1.10.ttf') format('truetype'),
+                url('./icons/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+            src: url('./icons/MonoSocialIconsFont-1.10.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+    }
 
-	@font-face {
-   	 	font-family: 'si';
-    		src: url('./socicon/socicon.eot');
-    		src: url('./socicon/socicon.eot?#iefix') format('embedded-opentype'),
-         		url('./socicon/socicon.woff') format('woff'),
-         		url('./socicon/socicon.ttf') format('truetype'),
-         		url('./socicon/socicon.svg#icomoonregular') format('svg');
-    		font-weight: normal;
-    		font-style: normal;
+    @font-face {
+        font-family: 'si';
+            src: url('./socicon/socicon.eot');
+            src: url('./socicon/socicon.eot?#iefix') format('embedded-opentype'),
+                url('./socicon/socicon.woff') format('woff'),
+                url('./socicon/socicon.ttf') format('truetype'),
+                url('./socicon/socicon.svg#icomoonregular') format('svg');
+            font-weight: normal;
+            font-style: normal;
  
-	}
+    }
  
-	@media screen and (-webkit-min-device-pixel-ratio:0) {
-    		@font-face {
-        		font-family:si;
-        		src: url(./socicon/socicon.svg) format(svg);
-    		}
-	}
-	
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+            @font-face {
+                font-family:si;
+                src: url(./socicon/socicon.svg) format(svg);
+            }
+    }
+    
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,100,700italic,700,100italic,400);
 
 .soc {
@@ -117,13 +117,21 @@
     content:'a';
 }
 .soc-twitter:hover {
+<<<<<<< Updated upstream
 	color: #55acee;
+=======
+    color: #55acee;
+>>>>>>> Stashed changes
 }
 .soc-linkedin:before {
     content:'j';
 }
 .soc-linkedin:hover {
+<<<<<<< Updated upstream
 	color: #0077b5;
+=======
+    color: #0077b5;
+>>>>>>> Stashed changes
 }
 .soc-google:before {
     content:'c';
@@ -132,43 +140,71 @@
     content:'x';
 }
 .soc-instagram:hover {
+<<<<<<< Updated upstream
 	color: #3f729b;
+=======
+    color: #3f729b;
+>>>>>>> Stashed changes
 }
 .soc-tumblr:before {
     content:'z';
 }
 .soc-tumblr:hover {
+<<<<<<< Updated upstream
 	color: #35465c;
+=======
+    color: #35465c;
+>>>>>>> Stashed changes
 }
 .soc-soundcloud:before {
     content:'n';
 }
 .soc-soundcloud:hover{
+<<<<<<< Updated upstream
 	color: #ff3300;
+=======
+    color: #ff3300;
+>>>>>>> Stashed changes
 }
 .soc-lastfm:before {
     content:'q';
 }
 .soc-lastfm:hover {
+<<<<<<< Updated upstream
 	color: #d51007;
+=======
+    color: #d51007;
+>>>>>>> Stashed changes
 }
 .soc-vine:before {
     content:'u';
 }
 .soc-vine:hover {
+<<<<<<< Updated upstream
 	color: #00b488;
+=======
+    color: #00b488;
+>>>>>>> Stashed changes
 }
 .soc-flickr:before {
     content:'v';
 }
 .soc-flickr:hover{
+<<<<<<< Updated upstream
 	color: #ff0084;
+=======
+    color: #ff0084;
+>>>>>>> Stashed changes
 }
 .soc-youtube:before {
     content:'r';
 }
 .soc-youtube:hover {
+<<<<<<< Updated upstream
 	color: #cd201f;
+=======
+    color: #cd201f;
+>>>>>>> Stashed changes
 }
 .soc-rss:before {
     content:',';
@@ -198,89 +234,89 @@ a.symbol:before {
 }
 
 .main {
-	text-align: center;
+    text-align: center;
 }
 
 
 h1 {
-	display: inline;
-	font-size: 273.500%;
-	color: #262626;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 700;
-	text-align: center;
+    display: inline;
+    font-size: 273.500%;
+    color: #262626;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
 }
 
 h2 {
-	font-size: 615.385%;
-	color: #262626;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 700;
-	text-align: center;
+    font-size: 615.385%;
+    color: #262626;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
 
 }
 
 h3 {
-	display: inline;
-	font-size: 273.500%;
-	color: #262626;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 700;
-	text-align: center;
+    display: inline;
+    font-size: 273.500%;
+    color: #262626;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
 }
 
 h4 {
-	font-size: 121.554%;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 700;
-	text-align: center;
+    font-size: 121.554%;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+    text-align: center;
 }
 
 h5 {
-	font-size: 121.481%;
-	text-align: center;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 400;
+    font-size: 121.481%;
+    text-align: center;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 400;
 }
 
 h6 {
-	font-size: 121.554%;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 700;
-	text-align: left;
+    font-size: 121.554%;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+    text-align: left;
 }
 
 p {
-	font-size: 121.481%;
-	text-align: left;
-	float: left;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 100;
+    font-size: 121.481%;
+    text-align: left;
+    float: left;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 100;
 }
 
 li {
-	display: inline;
+    display: inline;
 }
 
 nav {
-	font-size: 273.500%;
-	color: #262626;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 700;
-	width: 75%;
-	text-align: center;
+    font-size: 273.500%;
+    color: #262626;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+    width: 75%;
+    text-align: center;
 }
 
 navitem {
-	font-size: 273.500%;
-	color: #262626;
-	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-	font-weight: 700;
+    font-size: 273.500%;
+    color: #262626;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
 }
 
 projects {
-	display:inline-block;
-	width: 70%;
+    display:inline-block;
+    width: 70%;
 }
 
 work {
@@ -288,34 +324,32 @@ work {
 }
 
 a:link {
-	color: #262626;
-	text-decoration: none;
+    color: #262626;
+    text-decoration: none;
 }
 
 a:visited {
-	color: #262626;
+    color: #262626;
 }
 
 a:hover {
-	color: #B2B2B2;
+    color: #B2B2B2;
 }
 
 .project-title {
-	clear: both;
+    clear: both;
 }
 
 .project-media {
-	display: inline-block;
+    display: inline-block;
 }
 
 .project-text {
-	display: inline-block;
-	text-align: right;
-	clear: right;
-	padding-left: 30px;
-	padding-top: 0px;
-	width: 35%;
-	background-color: yellow;
+    display: inline-block;
+    text-align: right;
+    clear: right;
+    padding-left: 30px;
+    padding-top: 0px;
+    width: 35%;
+    background-color: yellow;
 }
-
-
