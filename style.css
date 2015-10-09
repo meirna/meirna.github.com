@@ -117,21 +117,13 @@
     content:'a';
 }
 .soc-twitter:hover {
-<<<<<<< Updated upstream
-	color: #55acee;
-=======
     color: #55acee;
->>>>>>> Stashed changes
 }
 .soc-linkedin:before {
     content:'j';
 }
 .soc-linkedin:hover {
-<<<<<<< Updated upstream
-	color: #0077b5;
-=======
     color: #0077b5;
->>>>>>> Stashed changes
 }
 .soc-google:before {
     content:'c';
@@ -140,71 +132,43 @@
     content:'x';
 }
 .soc-instagram:hover {
-<<<<<<< Updated upstream
-	color: #3f729b;
-=======
     color: #3f729b;
->>>>>>> Stashed changes
 }
 .soc-tumblr:before {
     content:'z';
 }
 .soc-tumblr:hover {
-<<<<<<< Updated upstream
-	color: #35465c;
-=======
     color: #35465c;
->>>>>>> Stashed changes
 }
 .soc-soundcloud:before {
     content:'n';
 }
 .soc-soundcloud:hover{
-<<<<<<< Updated upstream
-	color: #ff3300;
-=======
     color: #ff3300;
->>>>>>> Stashed changes
 }
 .soc-lastfm:before {
     content:'q';
 }
 .soc-lastfm:hover {
-<<<<<<< Updated upstream
-	color: #d51007;
-=======
     color: #d51007;
->>>>>>> Stashed changes
 }
 .soc-vine:before {
     content:'u';
 }
 .soc-vine:hover {
-<<<<<<< Updated upstream
-	color: #00b488;
-=======
     color: #00b488;
->>>>>>> Stashed changes
 }
 .soc-flickr:before {
     content:'v';
 }
 .soc-flickr:hover{
-<<<<<<< Updated upstream
-	color: #ff0084;
-=======
     color: #ff0084;
->>>>>>> Stashed changes
 }
 .soc-youtube:before {
     content:'r';
 }
 .soc-youtube:hover {
-<<<<<<< Updated upstream
-	color: #cd201f;
-=======
     color: #cd201f;
->>>>>>> Stashed changes
 }
 .soc-rss:before {
     content:',';
