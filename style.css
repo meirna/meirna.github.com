@@ -44,6 +44,11 @@
     
 @import url(http://fonts.googleapis.com/css?family=Roboto:400italic,100,700italic,700,100italic,400);
 
+hr {
+ width: 70%;
+ noshade: noshade;
+}
+
 .soc {
     overflow:hidden;
     display:block;
