@@ -30,8 +30,6 @@ nav,
 section,
 summary {
   display: block;
-  text-align: justify;
-  text-justify: inter-word;
 }
 audio,
 canvas,
@@ -238,7 +236,12 @@ th {
   img {
     max-width: 100% !important;
   }
-  p,
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    orphans: 3;
+    widows: 3;
+  }
   h2,
   h3 {
     orphans: 3;
