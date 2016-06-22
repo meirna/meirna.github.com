@@ -75,6 +75,9 @@ body {
 }
 
 .hovereffect a, hovereffect p {
+    text-align: center;
+  position: relative;
+  font-size: 17px;
   color: #FFF;
   padding: 1em 0;
   opacity: 0;
