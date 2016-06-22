@@ -50,6 +50,10 @@ body {
             text-overflow: ellipsis;
         }
     }
+    
+.photo-box img {
+    position: absolute;
+}
 
 footer {
     margin: 50px 0;
