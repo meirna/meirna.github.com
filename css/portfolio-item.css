@@ -25,9 +25,10 @@ body {
  
 .photo-box {
 
-    position:relative;
-    overflow:hidden;
-    padding-bottom:100%;
+     position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
     
             .img {
                   position: absolute;
