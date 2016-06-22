@@ -4,10 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-/*
-* Custom variables
-*/
-
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
@@ -66,15 +62,15 @@ body {
 }
 
 .hovereffect:hover img {
-          width: 50%;
-  height: 50%;
-  margin: auto;
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
 }
 
 .hovereffect a.info {
+          width: 50%;
+  height: 50%;
+  margin: auto;
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
