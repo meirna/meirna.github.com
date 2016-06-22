@@ -25,8 +25,9 @@ body {
  
 .photo-box {
 
-    overflow: hidden;
-
+    position:relative;
+    overflow:hidden;
+    padding-bottom:100%;
     
             .likes {
                 position: absolute;
