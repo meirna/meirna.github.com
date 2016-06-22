@@ -74,6 +74,7 @@ body {
     text-align: center;
     margin: auto;
   display: block;
+padding: 100px 0;
 transform: translate(-50%, -50%);
   text-decoration: none;
   text-transform: uppercase;
@@ -143,7 +144,7 @@ transform: translate(-50%, -50%);
 
 .soc li {
     display:inline-block;
-    *display:inline;
+    display:inline;
     zoom:1;
 }
 
@@ -167,7 +168,7 @@ transform: translate(-50%, -50%);
     transition-property: transform;
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
-    padding: 100px 0;
+    
     overflow:hidden;
     text-decoration:none;
     text-align:center;
