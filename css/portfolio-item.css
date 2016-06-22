@@ -126,7 +126,7 @@ transform: translate(-50%, -50%);
     @media screen and (-webkit-min-device-pixel-ratio:0) {
             @font-face {
                 font-family:si;
-                src: url(/socicon/socicon.svg) format(svg);
+                src: url(./socicon/socicon.svg) format(svg);
             }
     }
     
