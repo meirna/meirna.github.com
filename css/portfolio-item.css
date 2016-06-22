@@ -24,61 +24,7 @@ body {
 }
  
 .photo-box {
-
-    width: 200px;
-    height: 200px;
-    overflow: hidden;
     margin: 10px;
-    position: relative;
-    
-            .img {
-    position: absolute;
-    margin: auto; 
-    min-height: 100%;
-    min-width: 100%;
-
-    /* For the following settings we set 100%, but it can be higher if needed 
-    See the answer's update */
-    left: -100%;
-    right: -100%;
-    top: -100%;
-    bottom: -100%;
-            }
-    
-            .likes {
-                position: absolute;
-                bottom: 5px;
-                left: 15px;
-                padding: $padding/2;
-                background: #262626;
-                background: rgba($black, 0.4);
-                color: white;
-            }
-        }
-        .description {
-            font-family: 'Roboto';
-            font-size: 12px;
-            background: $white;
-            color: #262626;
-            padding: $padding*1.5;
-            overflow: hidden;
-            white-space: nowrap;
-            text-overflow: ellipsis;
-        }
-    }
-    
-.photo-box img {
-    position: absolute;
-    margin: auto; 
-    min-height: 100%;
-    min-width: 100%;
-
-    /* For the following settings we set 100%, but it can be higher if needed 
-    See the answer's update */
-    left: -100%;
-    right: -100%;
-    top: -100%;
-    bottom: -100%;
 }
 
 footer {
