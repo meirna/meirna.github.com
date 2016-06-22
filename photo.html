@@ -154,12 +154,14 @@
    
  <script>
  var feed = new Instafeed({
-        get: 'tagged',
+        get: 'user',
+        userId: '223043938',
         tagName: 'zagreb',
         clientId: 'a9b9c8b243f64c0987612bc35d523cf1',
         accessToken: '223043938.a9b9c8b.cecf202210334704ba2fe5d7b7ae46b0',
         template: '<a href="{{link}}"><img class="img-responsive portfolio-item" src="{{image}}" /></a>',
-        resolution: 'standard_resolution'
+        resolution: 'standard_resolution',
+        limit: '4'
     });
     feed.run();
 </script>
