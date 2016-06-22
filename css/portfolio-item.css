@@ -32,6 +32,7 @@ body {
         }
         .description {
             font-family: 'Roboto';
+            font-size: 9px;
             background: $white;
             color: #262626;
             padding: $padding*1.5;
