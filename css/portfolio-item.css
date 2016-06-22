@@ -25,8 +25,6 @@ body {
  
 .photo-box {
         margin: 0 0 $margin*3 0;
-        width: 500px;
-        height: 500px;
         
             .likes {
                 position: absolute;
@@ -49,12 +47,6 @@ body {
             text-overflow: ellipsis;
         }
     }
-    
-.insta-square {
-    orientation: square;
-    width: 500px;
-    height: 500px;
-}
 
 footer {
     margin: 50px 0;
