@@ -25,20 +25,20 @@ body {
  
 .photo-box {
 
-     position: relative;
-  width: 200px;
-  height: 200px;
+  height: 100%;
   overflow: hidden;
+  position: relative;
     
             .img {
-                  position: absolute;
-  left: 50%;
-  top: 50%;
-  width: 100%;
-  height: auto;
-  -webkit-transform: translate(-50%,-50%);
-      -ms-transform: translate(-50%,-50%);
-          transform: translate(-50%,-50%);
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+    position: absolute;
+    top: -100%;
+    right: -100%;
+    bottom: -100%;
+    left: -100%;
             }
     
             .likes {
@@ -64,14 +64,15 @@ body {
     }
     
 .photo-box img {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  width: 100%;
-  height: auto;
-  -webkit-transform: translate(-50%,-50%);
-      -ms-transform: translate(-50%,-50%);
-          transform: translate(-50%,-50%);
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+    position: absolute;
+    top: -100%;
+    right: -100%;
+    bottom: -100%;
+    left: -100%;
 }
 
 footer {
