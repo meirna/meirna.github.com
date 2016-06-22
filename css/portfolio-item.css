@@ -12,6 +12,42 @@ body {
     margin-bottom: 25px;
 }
 
+.instagram-wrap {
+    background: #b2b2b2;
+}
+ 
+.photo-box {
+        margin: 0 0 $margin*3 0;
+ 
+        .image-wrap {
+            img {
+                width: 100%;
+            }
+ 
+            .likes {
+                position: absolute;
+                bottom: 5px;
+                left: 15px;
+                padding: $padding/2;
+                background: #262626;
+                background: rgba($black, 0.4);
+                color: white;
+            }
+        }
+        .description {
+            font-family: 'Roboto';
+            font-size: 12px;
+            background: $white;
+            color: #262626;
+            letter-spacing: 1px;
+            padding: $padding*1.5;
+            height: 75px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+    }
+
 footer {
     margin: 50px 0;
 }
