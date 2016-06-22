@@ -57,7 +57,7 @@ body {
 
 .hovereffect img {
   display: block;
-  position: relative;
+  position: absolute;
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
