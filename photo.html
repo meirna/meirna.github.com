@@ -44,8 +44,6 @@
         </div>
         <!-- /.container -->
     </nav>
-    
-      <div id="instafeed"></div>
 
     <!-- Page Content -->
     <div class="container">
@@ -105,9 +103,9 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                <a href="#">
+
                     <div id="instafeed"></div>
-                </a>
+
             </div>
 
             <div class="col-sm-3 col-xs-6">
@@ -137,7 +135,6 @@
                 </div>
             </div>
             <!-- /.row -->
-            <div id="instafeed"></div>
         </footer>
 
     </div>
@@ -161,7 +158,7 @@
         tagName: 'zagreb',
         clientId: 'a9b9c8b243f64c0987612bc35d523cf1',
         accessToken: '223043938.a9b9c8b.cecf202210334704ba2fe5d7b7ae46b0',
-        template: '<a href="{{link}}"><img src="{{image}}" /></a>',
+        template: '<a href="{{link}}"><img class="img-responsive portfolio-item" src="{{image}}" /></a>',
         resolution: 'standard_resolution'
     });
     feed.run();
