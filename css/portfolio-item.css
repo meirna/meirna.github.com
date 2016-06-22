@@ -18,6 +18,7 @@ body {
  
 .photo-box {
         margin: 0 0 $margin*3 0;
+        orientation: square;
  
             .likes {
                 position: absolute;
