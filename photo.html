@@ -143,10 +143,13 @@
         clientId: 'a9b9c8b243f64c0987612bc35d523cf1',
         accessToken: '223043938.a9b9c8b.cecf202210334704ba2fe5d7b7ae46b0',
         template: '<div class="col-sm-3 col-xs-6"><div class="photo-box"><div class="image-wrap"><a href="{{link}}" target="_blank"><img src="{{image}}" class="img-responsive insta-square"></a></div></div></div>',
-        resolution: 'standard_resolution',
+        resolution: 'thumbnail',
         limit: '4'
     });
     feed.run();
+    
+    var thumbnail = post.images.thumbnail.url.replace('s150x150/', 's320x320/');
+    
 </script>
 
 </body>
