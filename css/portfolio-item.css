@@ -29,6 +29,10 @@ body {
     overflow:hidden;
     padding-bottom:100%;
     
+            .img {
+                position: absolute;
+            }
+    
             .likes {
                 position: absolute;
                 bottom: 5px;
