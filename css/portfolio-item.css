@@ -19,11 +19,6 @@ body {
 .photo-box {
         margin: 0 0 $margin*3 0;
  
-        .image-wrap {
-            img {
-                width: 100%;
-            }
- 
             .likes {
                 position: absolute;
                 bottom: 5px;
@@ -39,9 +34,7 @@ body {
             font-size: 12px;
             background: $white;
             color: #262626;
-            letter-spacing: 1px;
             padding: $padding*1.5;
-            height: 75px;
             overflow: hidden;
             white-space: nowrap;
             text-overflow: ellipsis;
