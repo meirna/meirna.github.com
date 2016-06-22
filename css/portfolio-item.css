@@ -101,23 +101,23 @@ transform: translate(-50%, -50%);
 
  @font-face {
             font-family: 'Mono Social Icons Font';
-            src: url('./icons/MonoSocialIconsFont-1.10.eot');
-            src: url('./icons/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
-                url('./icons/MonoSocialIconsFont-1.10.woff') format('woff'),
-                url('./icons/MonoSocialIconsFont-1.10.ttf') format('truetype'),
-                url('./icons/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
-            src: url('./icons/MonoSocialIconsFont-1.10.ttf') format('truetype');
+            src: url('../icons/MonoSocialIconsFont-1.10.eot');
+            src: url('../icons/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
+                url('../icons/MonoSocialIconsFont-1.10.woff') format('woff'),
+                url('../icons/MonoSocialIconsFont-1.10.ttf') format('truetype'),
+                url('../icons/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+            src: url('../icons/MonoSocialIconsFont-1.10.ttf') format('truetype');
             font-weight: normal;
             font-style: normal;
     }
 
     @font-face {
         font-family: 'si';
-            src: url('./socicon/socicon.eot');
-            src: url('./socicon/socicon.eot?#iefix') format('embedded-opentype'),
-                url('./socicon/socicon.woff') format('woff'),
-                url('./socicon/socicon.ttf') format('truetype'),
-                url('./socicon/socicon.svg#icomoonregular') format('svg');
+            src: url('../socicon/socicon.eot');
+            src: url('../socicon/socicon.eot?#iefix') format('embedded-opentype'),
+                url('../socicon/socicon.woff') format('woff'),
+                url('../socicon/socicon.ttf') format('truetype'),
+                url('../socicon/socicon.svg#icomoonregular') format('svg');
             font-weight: normal;
             font-style: normal;
  
@@ -126,7 +126,7 @@ transform: translate(-50%, -50%);
     @media screen and (-webkit-min-device-pixel-ratio:0) {
             @font-face {
                 font-family:si;
-                src: url(./socicon/socicon.svg) format(svg);
+                src: url(../socicon/socicon.svg) format(svg);
             }
     }
     
