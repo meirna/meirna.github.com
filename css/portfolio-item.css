@@ -30,15 +30,7 @@ body {
   position: relative;
     
             .img {
-    display: block;
-    min-width: 100%;
-    min-height: 100%;
-    margin: auto;
-    position: absolute;
-    top: -100%;
-    right: -100%;
-    bottom: -100%;
-    left: -100%;
+object-fit: cover;
             }
     
             .likes {
@@ -64,15 +56,7 @@ body {
     }
     
 .photo-box img {
-    display: block;
-    min-width: 100%;
-    min-height: 100%;
-    margin: auto;
-    position: absolute;
-    top: -100%;
-    right: -100%;
-    bottom: -100%;
-    left: -100%;
+   object-fit: cover;
 }
 
 footer {
