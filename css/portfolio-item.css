@@ -51,9 +51,6 @@ body {
 }
 
 .hovereffect img {
-      width: 50%;
-  height: 50%;
-  margin: auto;
   position: absolute;
   overflow: hidden;
   -webkit-transition: all 0.4s ease-in-out;
@@ -78,6 +75,9 @@ body {
 }
 
 .hovereffect a.info {
+          width: 50%;
+  height: 50%;
+  margin: auto;
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
