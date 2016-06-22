@@ -7,8 +7,6 @@
 /*
 * Custom variables
 */
-$padding: 10px;
-$margin: 10px;
 
 
 body {
@@ -52,7 +50,7 @@ body {
   background-color: rgba(170,170,170,0.4);
 }
 
-.hovereffect h2, .hovereffect img {
+.hovereffect img {
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
