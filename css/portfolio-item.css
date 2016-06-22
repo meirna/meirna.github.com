@@ -72,8 +72,8 @@ body {
   justify-content: center;
   align-items: center;
     text-align: center;
-    margin: 0 auto;
-  display: inline-block;
+    margin: auto;
+  display: block;
   text-decoration: none;
   text-transform: uppercase;
   color: #fff;
