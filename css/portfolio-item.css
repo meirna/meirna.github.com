@@ -74,10 +74,10 @@ body {
     text-align: center;
     margin: auto;
   display: block;
-padding: 100px 0;
+padding: 100px;
 transform: translate(-50%, -50%);
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: none;
   color: #fff;
   background-color: transparent;
   opacity: 0;
