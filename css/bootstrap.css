@@ -1589,9 +1589,6 @@ pre code {
   .container {
     width: 970px;
   }
-  .col-sm-3 .col-xs-6 {
-    padding-bottom: 5px;
-  }
 }
 @media (min-width: 1200px) {
   .container {
