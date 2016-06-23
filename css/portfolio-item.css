@@ -16,7 +16,8 @@ body {
 }
 
 .insta-view {
-    font-family: "Roboto:100italic";
+    font-family: "Roboto";
+    font-weight: 100italic;
 }
 
 .portfolio-item {
