@@ -1301,6 +1301,10 @@ p {
   .lead {
     font-size: 21px;
   }
+  
+  .col-sm-3 col-xs-6 {
+    padding-bottom: 5px;
+  }
 }
 small,
 .small {
