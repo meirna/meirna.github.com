@@ -16,7 +16,8 @@ body {
 }
 
 .insta-view {
-    font-size: 10px;
+    font-size: 12px;
+    text-color: #bababa;
 }
 
 .portfolio-item {
