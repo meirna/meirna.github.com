@@ -1301,10 +1301,6 @@ p {
   .lead {
     font-size: 21px;
   }
-  
-  .col-sm-3 col-xs-6 {
-    padding-bottom: 5px;
-  }
 }
 small,
 .small {
@@ -1461,6 +1457,10 @@ dd {
   .dl-horizontal dd {
     margin-left: 180px;
   }
+  
+  .col-sm-3 col-xs-6 {
+    padding-bottom: 5px;
+  }
 }
 abbr[title],
 abbr[data-original-title] {
@@ -1587,10 +1587,6 @@ pre code {
 @media (min-width: 768px) {
   .container {
     width: 750px;
-  }
-  
-  .col-sm-3 col-xs-6 {
-    padding-bottom: 10px;
   }
 }
 @media (min-width: 992px) {
