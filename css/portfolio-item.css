@@ -29,7 +29,12 @@ body {
     transition:all 0.3s ease;
 }
 
-.w3-animate-left{position:relative;-webkit-animation:animateleft 0.4s;animation:animateleft 0.4s}
+.w3-animate-left {
+    position:relative;
+    -webkit-animation: animateleft 0.4s;
+    animation: animateleft 0.4s
+}
+
 @-webkit-keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1}}
 @keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1}}
 
