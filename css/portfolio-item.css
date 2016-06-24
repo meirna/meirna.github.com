@@ -23,9 +23,9 @@ body {
 .insta-square:hover {
     color: #b7b8b0;
     opacity: 0.5;
-    -webkit-transform: scale(0.9);
-    -ms-transform: scale(0.9);
-    transform: scale(0.9);
+    -webkit-transform: scale(0.96);
+    -ms-transform: scale(0.96);
+    transform: scale(0.96);
     transition:all 0.3s ease;
 }
 
