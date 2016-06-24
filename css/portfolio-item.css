@@ -23,6 +23,7 @@ body {
 .insta-square:hover {
     color: #b7b8b0;
     opacity: 0.5;
+    transition:all 0.3s ease;
 }
 
 .portfolio-item {
