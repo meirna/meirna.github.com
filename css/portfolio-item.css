@@ -33,6 +33,7 @@ body {
     position:relative;
     -webkit-animation: animateleft 0.4s;
     animation: animateleft 0.4s
+    transition:all 0.3s ease;
 }
 
 @-webkit-keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1}}
