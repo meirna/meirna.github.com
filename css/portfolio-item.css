@@ -33,11 +33,34 @@ body {
     position:relative;
     -webkit-animation: animateleft 0.4s;
     animation: animateleft 0.4s
-    transition:all 0.3s ease;
 }
 
 @-webkit-keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1}}
 @keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1}}
+
+@keyframes FadeInOut {
+  0% {
+  opacity:1;
+}
+45% {
+opacity:1;
+}
+55% {
+opacity:0;
+}
+100% {
+opacity:0;
+}
+}
+
+.MirnaPhotoPortfolio {
+animation-name: FadeInOut;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 10s;
+animation-direction: alternate;
+}
+
 
 .portfolio-item {
     margin-bottom: 25px;
