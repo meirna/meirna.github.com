@@ -20,6 +20,11 @@ body {
     padding-bottom: 3px;
 }
 
+.insta-square:hover {
+    color: #b7b8b0;
+    opacity: 0.5;
+}
+
 .portfolio-item {
     margin-bottom: 25px;
 }
