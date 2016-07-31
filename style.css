@@ -59,6 +59,29 @@ hr {
   border-color: #262626;
 }
 
+a.btn {
+    background-color: #262626;
+    border-radius: 0px;
+    border-color: #262626;
+    text-decoration: none;
+    margin-top: 7px;
+}
+
+a.btn:hover {
+    background-color: #b2b2b2;
+    border-color: #b2b2b2;
+}
+
+a.btn:visited {
+    background-color: #262626;
+    border-color: #262626;
+}
+
+a.btn-primary:hover {
+background-color: #b2b2b2;
+    border-color: #b2b2b2;	
+}
+
 .soc {
     overflow:hidden;
     display:block;
