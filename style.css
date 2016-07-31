@@ -51,6 +51,12 @@ hr {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+#cta {
+  padding: 15px;
+  border-width: 1px;
+  border-color: #262626;
+}
+
 .soc {
     overflow:hidden;
     display:block;
