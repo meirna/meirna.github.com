@@ -20,7 +20,6 @@ body {
 }
 
 .contact {
-	height:100%;
   min-height:100%; /* for mozilla */
 	position: relative;
 }
@@ -263,7 +262,6 @@ a.btn-outline-primary#btn-blog:hover, a.btn-outline-primary#btn-blog:active {
 /* MAIN SECTIONS */
 
 #about {
-  height:100%; /* fill screen size */
   min-height:100%; /* for mozilla */
   background: center center no-repeat scroll #c40641;
   float: none;
@@ -292,10 +290,8 @@ a.btn-outline-primary#btn-blog:hover, a.btn-outline-primary#btn-blog:active {
 }
 
 #contact {
-  height:100%; /* fill screen size */
   min-height:100%; /* for mozilla */
   background: center center no-repeat scroll #A4A4A4;
-
 }
 
 
