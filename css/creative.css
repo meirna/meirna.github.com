@@ -526,10 +526,14 @@ body {
 section.video#rsd {
   background: url('../img/rsd-bg.jpg') no-repeat fixed center !important;
   color: white !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
 }
 section.video#stablo {
   background: url('../img/stablo-bg.jpg') no-repeat fixed center !important;
   color: #978063 !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
 }
 section.video#vodic {
   background-color: #b30076 !important;
@@ -537,6 +541,8 @@ section.video#vodic {
 }
 section.video#indie {
   background: url('../img/indie-bg.jpg') no-repeat fixed center !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
 }
 aside#contact{
   color: rgba(255,255,255,0.7) !important;
