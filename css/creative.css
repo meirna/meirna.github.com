@@ -524,29 +524,29 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 section.video#rsd {
-  background: url('../img/rsd-bg.jpg') center !important;
+  background: url('../img/rsd-bg.jpg') center;
   background-color: #013974;
   background-repeat: no-repeat;
-  color: white !important;
-  background-attachment: local !important;
-  background-size: cover !important;
+  color: white;
+  background-attachment: local;
+
 }
 section.video#stablo {
-  background: url('../img/stablo-bg.jpg') center !important;
+  background: url('../img/stablo-bg.jpg') center;
   background-repeat: no-repeat;
-  color: #978063 !important;
-  background-attachment: local !important;
-  background-size: cover !important;
+  color: #978063;
+  background-attachment: local;
+  background-size: cover;
 }
 section.video#vodic {
-  background-color: #b30076 !important;
-  color: white !important;
+  background-color: #b30076;
+  color: white;
 }
 section.video#indie {
-  background: url('../img/indie-bg.jpg') center !important;
+  background: url('../img/indie-bg.jpg') center;
   background-repeat: no-repeat;
-  background-attachment: local !important;
-  background-size: cover !important;
+  background-attachment: local;
+  background-size: cover;
 }
 aside#contact{
   color: rgba(255,255,255,0.7) !important;
