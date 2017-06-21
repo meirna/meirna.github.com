@@ -524,15 +524,18 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 section.video#rsd {
-  background: url('../img/rsd-bg.jpg') no-repeat fixed center !important;
+  background: url('../img/rsd-bg.jpg') center !important;
+  background-color: #013974;
+  background-repeat: no-repeat;
   color: white !important;
-  background-attachment: fixed !important;
+  background-attachment: local !important;
   background-size: cover !important;
 }
 section.video#stablo {
-  background: url('../img/stablo-bg.jpg') no-repeat fixed center !important;
+  background: url('../img/stablo-bg.jpg') center !important;
+  background-repeat: no-repeat;
   color: #978063 !important;
-  background-attachment: fixed !important;
+  background-attachment: local !important;
   background-size: cover !important;
 }
 section.video#vodic {
@@ -540,8 +543,9 @@ section.video#vodic {
   color: white !important;
 }
 section.video#indie {
-  background: url('../img/indie-bg.jpg') no-repeat fixed center !important;
-  background-attachment: fixed !important;
+  background: url('../img/indie-bg.jpg') center !important;
+  background-repeat: no-repeat;
+  background-attachment: local !important;
   background-size: cover !important;
 }
 aside#contact{
