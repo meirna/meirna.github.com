@@ -529,7 +529,7 @@ section.video#rsd {
   background-color: #013974;
   background-repeat: no-repeat;
   color: white;
-  background-attachment: scroll;
+  background-attachment: fixed;
 
 }
 section.video#stablo {
@@ -537,7 +537,7 @@ section.video#stablo {
   background-size: cover !important;
   background-repeat: no-repeat;
   color: #978063;
-  background-attachment: scroll;
+  background-attachment: fixed;
 }
 section.video#vodic {
   background-color: #b30076;
@@ -546,7 +546,7 @@ section.video#vodic {
 section.video#indie {
   background: url('../img/indie-bg.jpg') center;
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-size: cover;
 }
 aside#contact{
