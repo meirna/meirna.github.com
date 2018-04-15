@@ -524,7 +524,7 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 section.video#rsd {
-  background: url('../img/rsd-bg.jpg') center;
+  background: url('../img/rsd-bg.jpg');
   background-size: cover;
   background-color: #013974;
   background-repeat: no-repeat;
