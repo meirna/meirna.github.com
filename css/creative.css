@@ -530,7 +530,7 @@ section.video#rsd {
   background-repeat: no-repeat;
   color: white;
   background-attachment: fixed;
-  background-position: 50% 50%;
+  height: 100%;
 }
 section.video#stablo {
   background: url('../img/stablo-bg.jpg') center;
