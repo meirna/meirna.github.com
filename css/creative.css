@@ -525,12 +525,12 @@ body {
 }
 section.video#rsd {
   background: url('../img/rsd-bg.jpg') center;
-  background-size: contain !important;
+  background-size: cover;
   background-color: #013974;
   background-repeat: no-repeat;
   color: white;
   background-attachment: fixed;
-
+  background-position: 50% 50%;
 }
 section.video#stablo {
   background: url('../img/stablo-bg.jpg') center;
