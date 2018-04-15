@@ -525,7 +525,7 @@ body {
 }
 section.video#rsd {
   background: url('../img/rsd-bg.jpg') center;
-  background-size: cover !important;
+  background-size: contain !important;
   background-color: #013974;
   background-repeat: no-repeat;
   color: white;
