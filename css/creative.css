@@ -525,6 +525,7 @@ body {
 }
 section.video#rsd {
   background: url('../img/rsd-bg.jpg') center;
+  background-size: cover !important;
   background-color: #013974;
   background-repeat: no-repeat;
   color: white;
@@ -533,10 +534,10 @@ section.video#rsd {
 }
 section.video#stablo {
   background: url('../img/stablo-bg.jpg') center;
+  background-size: cover !important;
   background-repeat: no-repeat;
   color: #978063;
   background-attachment: local;
-  background-size: cover;
 }
 section.video#vodic {
   background-color: #b30076;
