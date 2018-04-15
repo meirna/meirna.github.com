@@ -528,7 +528,7 @@ section.video#rsd {
   background-size: cover;
   background-color: #013974;
   background-repeat: no-repeat;
-  color: white;
+  color: #000000;
   background-attachment: fixed;
   height: 100%;
 }
