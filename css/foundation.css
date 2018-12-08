@@ -54,82 +54,6 @@ html {
   box-sizing: inherit; }
 
 
-@font-face {
-    font-family: 'socicon';
-    src: url('/icons/socicon/font/socicon.eot');
-    src: url('/icons/socicon/font/socicon.eot?#iefix') format('embedded-opentype'),
-         url('/icons/socicon/font/socicon.woff') format('woff'),
-         url('/icons/socicon/font/socicon.ttf') format('truetype'),
-         url('/icons/socicon/font/socicon.svg#sociconregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    text-transform: initial;
-}
-
-.socicon {
-    font-family: 'socicon' !important;
-}
-
-.socicon {
-  position: relative;
-  top: 1px;
-  display: inline-block;
-  font-family: 'socicon';
-  font-style: normal;
-  font-weight: normal;
-  color: black;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-}
-.socicon:empty{
-    width: 1em;
-}
-
-.socicon a {
-  color: black;
-   padding-right: 10px;
-}
-
-.socicon a:hover {
-    z-index: 2;
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-}
-
-
-.socicon-twitter:before { content: "a"; }
-.socicon-twitter:hover {color: #55acee;}
-.socicon-facebook:before { content: "b"; }
-.socicon-facebook:hover {color: #3b5998;}
-.socicon-google:before { content: "c"; }
-.socicon-soundcloud:before { content: "n"; }
-.socicon-soundcloud:hover{color: #ff3300;}
-.socicon-spotify:before { content: "o"; }
-.socicon-grooveshark:before { content: "p"; }
-.socicon-lastfm:before { content: "q"; }
-.socicon-youtube:before { content: "r"; }
-.socicon-youtube:hover {color: #cd201f;}
-.socicon-vimeo:before { content: "s"; }
-.socicon-vine:before { content: "u"; }
-.socicon-vine:hover {color: #00b488;}
-.socicon-flickr:before { content: "v"; }
-.socicon-instagram:before { content: "x"; }
-.socicon-instagram:hover {color: #3f729b;}
-.socicon-wordpress:before { content: "y"; }
-.socicon-tumblr:before { content: "z"; }
-.socicon-tumblr:hover {color: #35465c;}
-.socicon-apple:before { content: "O"; }
-.socicon-rss:before { content: ","; }
-.socicon-vkontakte:before { content: ";"; }
-.socicon-mail:before { content: "@"; }
-.socicon-patreon:before { content: "="; }
-.socicon-paypal:before { content: "-"; }
-.socicon-amazon:before { content: "£"; }
-.socicon-mixcloud:before { content: '"'; }
-.socicon-8tracks:before { content: "}"; }
-.socicon-twitch:before { content: "{"; }
-
-
 .column.small-centered {
 margin-left: auto;
 margin-right: auto;
@@ -141,42 +65,12 @@ float: none !important; }
 }
 
 
-
-.mc-field-group {
-  width: 200px;
-  text-align: center;
-  vertical-align: center;
-  position: inherit;
-  margin: auto;
-  display: inline-block;
- 
-}
-
-
-#mc_embed_signup input[type="submit"] {
-      font-family: 'socicon' !important;
-      background: #ffcc00;
-
-      border-color: #ffcc00;
-      box-shadow: none;
-      border-width: 1px; 
-      color: black;
-      cursor: pointer;
-      font-size: 20px;
-      padding: 10px;
-      position: inherit;
-      margin: 0 5px;
-}
-
-
-
-
 html,
 body {
-  font-size: 120%; }
+  font-size: 100%; }
 
 body {
-  background: #fff;
+  background: #f2f2f2;
   color: #222;
   cursor: auto;
   font-family: Open Sans, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
