@@ -269,6 +269,9 @@ li {
 button {
 	cursor: pointer;
 }
+img, picture, iframe, .btn {
+  user-select: none;
+}
 .col-sm-6 {
 	overflow: hidden;
 }
