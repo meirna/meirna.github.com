@@ -5,11 +5,11 @@ navToggle.addEventListener("click", () => {
     }, {passive: true}), navLinks.forEach(
         (e) => {
             e.addEventListener("click", () => {
-                document.body.classList.remove("nav-open");
+                document.body.removeAttribute("class");
             });
         }, {passive: true});
 
 window.addEventListener("resize", () => {
-	if (window.innerWidth > 992) document.body.classList.remove("nav-open");
+	if (window.innerWidth > 992) document.body.removeAttribute("class");
 });    
 
