@@ -505,6 +505,7 @@ footer *::selection {
   list-style: none;
 }
 .navbar-nav .nav-link {
+  display: block;
   padding-right: 0;
   padding-left: 0;
 }
@@ -625,6 +626,9 @@ footer *::selection {
   background-color: rgba(255, 255, 255, .8);
   transition: background-color .2s ease;
   backdrop-filter: blur(4px);
+}
+.nav-open #mainNav .nav-link {
+	padding:0!important;
 }
 @media (min-width: 992px) {
   #mainNav .navbar-nav .nav-item .nav-link {
